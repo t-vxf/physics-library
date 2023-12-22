@@ -1,0 +1,7 @@
+.scrollable-container {
+    overflow: auto;
+}
+
+.scrollable-container {
+    touch-action: manipulation;
+}
