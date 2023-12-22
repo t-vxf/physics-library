@@ -1218,7 +1218,7 @@
     position: absolute;
     width: 401px;
     height: 441px;
-    background-image: url(./icons/lamp.png);
+    background-image: url(icons/lamp.png);
     background-repeat: no-repeat;
     background-size: 350px;
   
@@ -1229,7 +1229,7 @@
     height: 60px;
     top: 430px;
     left: 1115px;
-    background-color: #B8860B;
+    background-color: #ffffff;
     border-radius: 55px;
     overflow: hidden;
     position: relative;
