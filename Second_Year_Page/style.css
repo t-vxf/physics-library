@@ -1,0 +1,1351 @@
+.element {
+  background-color: transparent;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div {
+  overflow-x: hidden;
+  width: 1920px;
+  height: 3192.42px;
+  position: relative;
+}
+
+.element .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 900px;
+  top: 66px;
+  left: -14px;
+}
+
+.element .header {
+  position: absolute;
+  width: 1920px;
+  height: 900px;
+  top: -100px;
+  left: 0;
+  background-color: transparent;
+  background-image: url(./img/header.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .div-sc {
+  position: absolute;
+  width: 1400px;
+  height: 685px;
+  top: -142px;
+  left: 230px;
+}
+
+.element .overlap-group {
+  position: absolute;
+  width: 694px;
+  height: 538px;
+  top: 245px;
+  left: 498px;
+}
+
+.element .div-sc-njuv {
+  position: absolute;
+  width: 432px;
+  height: 440px;
+  top: 98px;
+  left: 262px;
+}
+
+.element .link {
+  position: relative;
+  width: 169px;
+  height: 50px;
+  top: 365px;
+  left: -54px;
+  background-color: #3f8daf;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.element .text-wrapper {
+  position: absolute;
+  width: 105px;
+  height: 19px;
+  top: 7px;
+  left: 33px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+  direction: rtl;
+}
+
+.element .heading-wrapper {
+  position: absolute;
+  width: 391px;
+  height: 390px;
+  top: 0;
+  left: 33px;
+}
+
+.element .heading {
+  width: 263px;
+  top: 213px;
+  left: 26px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+  position: absolute;
+  height: 80px;
+}
+
+.element .div-wrapper {
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  top: 465px;
+  left: -25px;
+  background-color: #3f8daf;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.element .figure-wrapper {
+  position: absolute;
+  width: 484px;
+  height: 421px;
+  top: 245px;
+  left: 0;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.element .figure {
+  position: relative;
+  width: 236px;
+  height: 259px;
+  top: 247px;
+  left: -40px;
+  border-radius: 10px;
+  background-image: url(./img/figure-2e564435a851230540d7e64008b2119d-png.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .link-2 {
+  position: absolute;
+  width: 169px;
+  height: 55px;
+  top: 662px;
+  left: 1064px;
+  background-color: #3f8daf;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.element .text-wrapper-2 {
+  width: 117px;
+  height: 19px;
+  top: 14px;
+  left: 26px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  line-height: 50px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .link-3 {
+  position: absolute;
+  width: 169px;
+  height: 50px;
+  top: 665px;
+  left: 839px;
+  background-color: #3f8daf;
+  border-radius: 50px;
+  overflow: hidden;
+  text-align: justify;
+}
+
+.element .link-4 {
+  position: absolute;
+  width: 169px;
+  height: 50px;
+  top: 665px;
+  left: 600px;
+  background-color: #3f8daf;
+  border-radius: 50px;
+  overflow: hidden;
+}
+
+.element .div-link-wrapper {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 120px;
+  left: 1830px;
+}
+
+.element .link-social-link-SVG {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 135px;
+  left: 1875px;
+  object-fit: cover;
+}
+
+.element .div-WM-GLOBAL {
+  position: absolute;
+  width: 1500px;
+  height: 155px;
+  top: 0;
+  left: 213px;
+}
+
+.element .div-logocontainer {
+  position: absolute;
+  width: 115px;
+  height: 155px;
+  top: 0;
+  left: 20px;
+}
+
+.element .figure-link-figure {
+  position: relative;
+  height: 115px;
+  top: -40px;
+  left: -150px;
+  background-image: url(./img/figure-link-figure-802934b906636122db83cb772f1f4d1c-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .nav-wrapper {
+  position: absolute;
+  width: 1305px;
+  height: 66px;
+  top: 44px;
+  left: 155px;
+}
+
+.element .nav {
+  position: relative;
+  width: 76px;
+  height: 62px;
+  top: 2px;
+  left: 1165px;
+}
+
+.element .text-wrapper-3 {
+  width: 117px;
+  height: 50px;
+  top: 35px;
+  left: 1523px;
+  font-family: "Dubai", bold;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 17px;
+  text-align: left;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .overlap-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1542px;
+  top: 3119px;
+  left: -14px;
+}
+
+.element .section {
+  position: absolute;
+  width: 1920px;
+  height: 924px;
+  top: 618px;
+  left: 0;
+  background-color: #fafcff;
+}
+
+.element .overlap-3 {
+  position: relative;
+  height: 911px;
+  top: 13px;
+}
+
+.element .SVG {
+  position: absolute;
+  width: 290px;
+  height: 823px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element .img {
+  position: absolute;
+  width: 662px;
+  height: 867px;
+  top: 44px;
+  left: 1258px;
+  object-fit: cover;
+}
+
+.element .div-sc-wc {
+  position: absolute;
+  width: 1449px;
+  height: 499px;
+  top: 185px;
+  left: 230px;
+}
+
+.element .heading-2 {
+  width: 1400px;
+  top: -43px;
+  left: 18px;
+  position: absolute;
+  height: 80px;
+}
+
+.element .text-wrapper-4 {
+  width: 419px;
+  height: 80px;
+  top: -1px;
+  left: 491px;
+  font-family: "DG Jory", Helvetica;
+  font-weight: 700;
+  color: #b18930;
+  font-size: 52px;
+  text-align: center;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .div-sc-2 {
+  position: absolute;
+  width: 1299px;
+  height: 508px;
+  top: 62px;
+  left: 96px;
+}
+
+.element .overlap-4 {
+  position: absolute;
+  width: 350px;
+  height: 438px;
+  top: 50px;
+  left: 840px;
+}
+
+.element .article-wrapper {
+  position: absolute;
+  width: 350px;
+  height: 229px;
+  top: 208px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #2937611a;
+}
+
+.element .article {
+  position: relative;
+  height: 168px;
+  top: 31px;
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 0px 9px 22px #1116251f;
+}
+
+.element .overlap-group-2 {
+  position: relative;
+  width: 349px;
+  height: 168px;
+}
+
+.element .div-sc-3 {
+  position: absolute;
+  width: 82px;
+  height: 168px;
+  top: 0;
+  left: 0;
+}
+
+.element .pseudo {
+  position: absolute;
+  width: 10px;
+  height: 168px;
+  top: 0;
+  left: 0;
+  background-color: #b18930;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.element .div-sc-4 {
+  position: absolute;
+  width: 268px;
+  height: 168px;
+  top: 0;
+  left: 81px;
+}
+
+.element .overlap-group-wrapper {
+  position: absolute;
+  width: 224px;
+  height: 24px;
+  top: 126px;
+  left: 18px;
+}
+
+.element .overlap-group-3 {
+  position: relative;
+  width: 77px;
+  height: 24px;
+}
+
+.element .link-5 {
+  position: absolute;
+  width: 77px;
+  height: 22px;
+  top: -2px;
+  left: 0;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #b18930;
+  font-size: 15px;
+  text-align: left;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.element .SVG-2 {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 53px;
+  object-fit: cover;
+}
+
+.element .text-wrapper-5 {
+  width: 231px;
+  height: 43px;
+  top: 40px;
+  left: 18px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #b18930;
+  font-size: 28px;
+  text-align: left;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .div-sc-5 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 350px;
+  height: 229px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #2937611a;
+}
+
+.element .overlap-5 {
+  position: relative;
+  height: 168px;
+  top: 31px;
+  border-radius: 10px;
+}
+
+.element .article-2 {
+  height: 168px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff01;
+  box-shadow: 0px 9px 22px #1116251f;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .text-wrapper-6 {
+  width: 231px;
+  height: 43px;
+  top: 40px;
+  left: 37px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #b18930;
+  font-size: 28px;
+  text-align: left;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .overlap-wrapper {
+  top: 118px;
+  left: 101px;
+  position: absolute;
+  width: 224px;
+  height: 24px;
+}
+
+.element .overlap-6 {
+  position: absolute;
+  width: 350px;
+  height: 438px;
+  top: 50px;
+  left: 450px;
+}
+
+.element .div-sc-6 {
+  top: 120px;
+  left: 18px;
+  position: absolute;
+  width: 224px;
+  height: 24px;
+}
+
+.element .heading-3 {
+  position: absolute;
+  width: 231px;
+  height: 75px;
+  top: 28px;
+  left: 37px;
+}
+
+.element .text-wrapper-7 {
+  width: 231px;
+  height: 43px;
+  top: 15px;
+  left: -12px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #b18930;
+  font-size: 28px;
+  text-align: left;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .div-sc-7 {
+  top: 117px;
+  left: 0;
+  position: absolute;
+  width: 224px;
+  height: 24px;
+}
+
+.element .overlap-7 {
+  position: absolute;
+  width: 351px;
+  height: 438px;
+  top: 50px;
+  left: 59px;
+}
+
+.element .div-sc-8 {
+  top: 209px;
+  left: 1px;
+  position: absolute;
+  width: 350px;
+  height: 229px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 3px 6px #2937611a;
+}
+
+.element .div-sc-9 {
+  top: 124px;
+  left: 0;
+  position: absolute;
+  width: 224px;
+  height: 24px;
+}
+
+.element .overlap-8 {
+  position: relative;
+  width: 340px;
+  height: 168px;
+}
+
+.element .div-sc-10 {
+  position: absolute;
+  width: 268px;
+  height: 168px;
+  top: 0;
+  left: 72px;
+}
+
+.element .heading-4 {
+  position: absolute;
+  width: 224px;
+  height: 43px;
+  top: 42px;
+  left: 20px;
+}
+
+.element .unit_block {
+  width: 209px;
+  height: 43px;
+  top: 0;
+  left: 32px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 700;
+  color: #b18930;
+  font-size: 28px;
+  text-align: left;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+.element .unit_block3 {
+  width: 209px;
+  height: 43px;
+  top: 30px;
+  left: 32px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 700;
+  color: #b18930;
+  font-size: 28px;
+  text-align: left;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+.element .div-sc-11 {
+  top: 115px;
+  left: 37px;
+  position: absolute;
+  width: 224px;
+  height: 24px;
+}
+
+.element .section-2 {
+  height: 618px;
+  top: 0;
+  left: 0;
+  background-color: #111625;
+  position: absolute;
+  width: 1920px;
+}
+
+.element .overlap-9 {
+  position: relative;
+  height: 599px;
+  top: 19px;
+}
+
+.element .SVG-3 {
+  position: absolute;
+  width: 569px;
+  height: 599px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.element .SVG-4 {
+  position: absolute;
+  width: 534px;
+  height: 563px;
+  top: 37px;
+  left: 1386px;
+  object-fit: cover;
+}
+
+.element .div-sc-hhvvf {
+  position: absolute;
+  width: 1400px;
+  height: 458px;
+  top: 61px;
+  left: 260px;
+}
+
+.element .heading-5 {
+  width: 1400px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  height: 80px;
+}
+
+.element .text-wrapper-9 {
+  width: 388px;
+  height: 80px;
+  top: -1px;
+  left: 506px;
+  font-family: "DG Jory", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: center;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .div-sc-12 {
+  position: absolute;
+  width: 1250px;
+  height: 338px;
+  top: 140px;
+  left: 75px;
+}
+
+.element .article-3 {
+  height: 104px;
+  top: 214px;
+  left: 840px;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .overlap-group-4 {
+  position: relative;
+  width: 349px;
+  height: 104px;
+}
+
+.element .div-sc-13 {
+  position: absolute;
+  width: 82px;
+  height: 104px;
+  top: 0;
+  left: 0;
+}
+
+.element .div-sc-14 {
+  position: absolute;
+  width: 268px;
+  height: 104px;
+  top: 0;
+  left: 81px;
+  background-color: #e2c96e;
+  border-radius: 0px 10px 10px 0px;
+}
+
+.element .heading-6 {
+  width: 194px;
+  height: 37px;
+  top: 29px;
+  left: 20px;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: left;
+  position: absolute;
+  font-family: "Dubai", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.element .article-4 {
+  height: 104px;
+  top: 214px;
+  left: 450px;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .article-5 {
+  height: 104px;
+  top: 214px;
+  left: 60px;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .article-6 {
+  height: 104px;
+  top: 70px;
+  left: 840px;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .article-7 {
+  height: 104px;
+  top: 70px;
+  left: 450px;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .article-8 {
+  height: 104px;
+  top: 70px;
+  left: 60px;
+  position: absolute;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.element .heading-7 {
+  position: absolute;
+  width: 179px;
+  height: 37px;
+  top: 29px;
+  left: 20px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: left;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.element .overlap-10 {
+  position: absolute;
+  width: 1920px;
+  height: 897px;
+  top: 6931px;
+  left: -16px;
+}
+
+.element .div-sc-wrapper {
+  height: 599px;
+  top: 0;
+  left: 0;
+  background-color: #111625;
+  position: absolute;
+  width: 1920px;
+}
+
+.element .div-sc-pdggh {
+  position: relative;
+  width: 1400px;
+  height: 439px;
+  top: 80px;
+  left: 260px;
+}
+
+.element .div-sc-15 {
+  position: absolute;
+  width: 697px;
+  height: 484px;
+  top: 23px;
+  left: -30px;
+}
+
+.element .overlap-group-5 {
+  position: relative;
+  width: 601px;
+  height: 531px;
+  top: -20px;
+  left: 48px;
+}
+
+.element .group-wrapper {
+  position: absolute;
+  width: 601px;
+  height: 435px;
+  top: 20px;
+  left: 0;
+}
+
+.element .group {
+  position: absolute;
+  width: 600px;
+  height: 434px;
+  top: 0;
+  left: 0;
+}
+
+.element .image {
+  position: absolute;
+  width: 482px;
+  height: 516px;
+  top: 0;
+  left: 118px;
+  object-fit: cover;
+}
+
+.element .div-sc-16 {
+  position: absolute;
+  width: 257px;
+  height: 518px;
+  top: 13px;
+  left: 171px;
+  border-radius: 38px;
+}
+
+.element .figure-2 {
+  position: relative;
+  width: 195px;
+  height: 464px;
+  left: 38px;
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+.element .div-2 {
+  position: relative;
+  width: 193px;
+  height: 297px;
+  top: 64px;
+  left: 10px;
+  border-radius: 24px;
+  background-image: url(./img/screenshot-2023-11-19-at-4-04-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .div-sc-17 {
+  position: absolute;
+  width: 630px;
+  height: 251px;
+  top: 94px;
+  left: 770px;
+}
+
+.element .div-sc-18 {
+  position: absolute;
+  width: 630px;
+  height: 131px;
+  top: 0;
+  left: -15px;
+}
+
+.element .heading-8 {
+  width: 19px;
+  top: -1px;
+  left: 15px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: left;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+  position: absolute;
+  height: 80px;
+}
+
+.element .heading-9 {
+  width: 401px;
+  top: -1px;
+  left: 74px;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: left;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+  position: absolute;
+  height: 80px;
+}
+
+.element .p {
+  width: 474px;
+  height: 31px;
+  top: 99px;
+  left: 15px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: left;
+  line-height: 30.8px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .link-6 {
+  position: absolute;
+  width: 169px;
+  height: 50px;
+  top: 171px;
+  left: 10px;
+  border-radius: 50px;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(226, 201, 110) 0%, rgb(177, 137, 48) 96%);
+}
+
+.element .text-wrapper-10 {
+  width: 105px;
+  height: 19px;
+  top: 3px;
+  left: 33px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  line-height: 50px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .footer {
+  position: absolute;
+  width: 1920px;
+  height: 303px;
+  top: 594px;
+  left: 0;
+  background-color: #111625;
+}
+
+.element .div-WM-GLOBAL-2 {
+  position: relative;
+  width: 1400px;
+  height: 203px;
+  top: 50px;
+  left: 260px;
+}
+
+.element .text-wrapper-11 {
+  width: 70px;
+  height: 22px;
+  top: 10px;
+  left: 570px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .link-7 {
+  position: absolute;
+  width: 61px;
+  height: 42px;
+  top: 1px;
+  left: 648px;
+  overflow: hidden;
+}
+
+.element .text-wrapper-12 {
+  width: 61px;
+  height: 22px;
+  top: 9px;
+  left: 0;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .text-wrapper-13 {
+  width: 111px;
+  height: 22px;
+  top: 9px;
+  left: 709px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .text-wrapper-14 {
+  width: 112px;
+  height: 22px;
+  top: 9px;
+  left: 836px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .figure-3 {
+  position: absolute;
+  width: 115px;
+  height: 121px;
+  top: 82px;
+  left: 0;
+}
+
+.element .div-3 {
+  height: 115px;
+  background-image: url(./img/figure-link-figure-802934b906636122db83cb772f1f4d1c-jpg.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .text-wrapper-15 {
+  position: absolute;
+  width: 150px;
+  height: 19px;
+  top: 131px;
+  left: 134px;
+  -webkit-text-stroke: 1px #ffffff80;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .link-social-link {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 124px;
+  left: 1313px;
+}
+
+.element .link-social-link-2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 124px;
+  left: 1359px;
+}
+
+.element .section-3 {
+  height: 2270px;
+  top: 4661px;
+  left: -16px;
+  background-image: url(./img/section-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  position: absolute;
+  width: 1920px;
+}
+
+.element .dady {
+  position: absolute;
+  width: 1480px;
+  height: 575px;
+  top: 178px;
+  left: 292px;
+}
+
+.element .overlap-group-6 {
+  position: relative;
+  height: 747px;
+  top: 116px;
+}
+
+.element .vid {
+  position: absolute;
+  width: 401px;
+  height: 241px;
+  top: 0;
+  left: 912px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px #11162526;
+}
+
+.element .vid-wrapper {
+  position: absolute;
+  width: 401px;
+  top: 0;
+  left: 469px;
+  height: 241px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px #11162526;
+}
+
+.element .vid-2 {
+  position: relative;
+  left: -437px;
+  height: 241px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px #11162526;
+}
+
+.element .dady-2 {
+  top: 172px;
+  left: 0;
+  position: absolute;
+  width: 1480px;
+  height: 575px;
+}
+
+.element .vid-3 {
+  position: absolute;
+  width: 401px;
+  top: 116px;
+  left: 912px;
+  height: 241px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px #11162526;
+}
+
+.element .vid-4 {
+  position: absolute;
+  width: 401px;
+  top: 116px;
+  left: 469px;
+  height: 241px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px #11162526;
+}
+
+.element .dady-3 {
+  top: 754px;
+  left: 292px;
+  position: absolute;
+  width: 1480px;
+  height: 575px;
+}
+
+.element .dady-4 {
+  top: 1330px;
+  left: 292px;
+  position: absolute;
+  width: 1480px;
+  height: 575px;
+}
+
+.element .link-8 {
+  position: absolute;
+  width: 257px;
+  height: 57px;
+  top: 509px;
+  left: 525px;
+  border-radius: 50px;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(226, 201, 110) 0%, rgb(177, 137, 48) 96%);
+}
+
+.element .text-wrapper-16 {
+  width: 156px;
+  height: 19px;
+  top: 10px;
+  left: 51px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 50px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
+
+.element .heading-10 {
+  width: 593px;
+  height: 80px;
+  top: 97px;
+  left: 632px;
+  color: #111625;
+  font-size: 52px;
+  text-align: center;
+  position: absolute;
+  font-family: "Bodoni Moda", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  direction: rtl;
+}
+
+.element .section-4 {
+  height: 2285px;
+  top: 834px;
+  left: -14px;
+  background-image: url(./img/section.png);
+  background-size: cover;
+  background-position: 50% 50%;
+  position: absolute;
+  width: 1920px;
+}
+
+.element .link-9 {
+  position: absolute;
+  width: 257px;
+  height: 57px;
+  top: 518px;
+  left: 541px;
+  border-radius: 50px;
+  overflow: hidden;
+  background: linear-gradient(180deg, rgb(226, 201, 110) 0%, rgb(177, 137, 48) 96%);
+}
+
+.element .text-wrapper-17 {
+  width: 156px;
+  height: 19px;
+  top: 10px;
+  left: 51px;
+  font-family: "Dubai", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 50px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+  direction: rtl;
+}
