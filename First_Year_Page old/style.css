@@ -1218,7 +1218,7 @@
     position: absolute;
     width: 401px;
     height: 441px;
-    background-image: url(icons/lamp.png);
+    background-image: url(/icons/lamp.png);
     background-repeat: no-repeat;
     background-size: 350px;
   
@@ -1270,7 +1270,7 @@
     height: 79px;
     font-family: "Tajawal", Helvetica;
     font-weight: 400;
-    color: #ffffff;
+    color: #B8860B;
     font-size: 16px;
     text-align: center;
     letter-spacing: 0;
