@@ -36,7 +36,7 @@ html {
   top: 0;
   left: 0;
   background-color: transparent;
-  background-image: url(./img/header.png);
+  background-image: url(/img/header.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -250,7 +250,7 @@ html {
   height: 842px;
   top: 1079px;
   background-color: #11162575;
-  background-image: url(./img/section-4.png);
+  background-image: url(/img/section-4.png);
   background-size: cover;
   background-position: 50% 50%;
   position: absolute;
