@@ -36,7 +36,7 @@ html {
   top: 0;
   left: 0;
   background-color: transparent;
-  background-image: url(/img/header.png);
+  background-image: url(./img/header.png);
   background-size: cover;
   background-position: 50% 50%;
 }
@@ -250,7 +250,7 @@ html {
   height: 842px;
   top: 1079px;
   background-color: #11162575;
-  background-image: url(/img/section-4.png);
+  background-image: url(./img/section-4.png);
   background-size: cover;
   background-position: 50% 50%;
   position: absolute;
@@ -440,7 +440,7 @@ html {
 .physics-websit .section-2 {
   height: 300px;
   top: 1920px;
-  background-image: url(/img/section-3.png);
+  background-image: url(./img/section-3.png);
   background-size: cover;
   background-position: 50% 50%;
 
@@ -452,7 +452,7 @@ html {
 .physics-websit .section-3 {
   height: 1092px;
   top: 2219px;
-  background-image: url(/img/stars-rounded.png);
+  background-image: url(./img/stars-rounded.png);
   background-size: contain;
   padding: -100px;
   position: absolute;
@@ -744,7 +744,7 @@ html {
   width: 115px;
   height: 115px;
   top: 20px;
-  background-image: url(/img/802934b906636122db83cb772f1f4d1c-jpg.png);
+  background-image: url(./img/802934b906636122db83cb772f1f4d1c-jpg.png);
   background-size: 100% 100%;
   left: -100px;
 
@@ -859,7 +859,7 @@ html {
 .physics-websit .section-4 {
   height: 1245px;
   top: 4676px;
-  background-image: url(/img/section-2.png);
+  background-image: url(./img/section-2.png);
   background-size: cover;
   background-position: 50% 50%;
   position: absolute;
@@ -971,7 +971,7 @@ html {
   height: 574px;
   top: 0;
   background-color: #1b2b5a52;
-  background-image: url(/img/section-1.png);
+  background-image: url(./img/section-1.png);
   background-size: cover;
   background-position: 50% 50%;
   position: absolute;
@@ -1205,7 +1205,7 @@ html {
 .physics-websit .section-5 {
   height: 1377px;
   top: 3300px;
-  background-image: url(/img/section.png);
+  background-image: url(./img/section.png);
   background-size: cover;
   background-position: cover;
   position: absolute;
@@ -1292,7 +1292,7 @@ html {
   height: 429px;
   top: -1px;
   border-radius: 10px;
-  background-image: url(/img/435ecaf88ce1af1a03f349486a26daaf-png.png);
+  background-image: url(./img/435ecaf88ce1af1a03f349486a26daaf-png.png);
   background-size: 100% 100%;
 }
 
@@ -1309,7 +1309,7 @@ html {
   height: 297px;
   top: 3px;
   border-radius: 10px;
-  background-image: url(/img/ddf5fcad0a508ffadea03079b30db105-png.png);
+  background-image: url(./img/ddf5fcad0a508ffadea03079b30db105-png.png);
   background-size: 100% 100%;
 }
 
@@ -1358,7 +1358,7 @@ html {
   height: 293px;
   top: 3px;
   border-radius: 10px;
-  background-image: url(/img/1c4046449b262bb40b6ba913e9fe3e4f-jpg.png);
+  background-image: url(./img/1c4046449b262bb40b6ba913e9fe3e4f-jpg.png);
   background-size: 100% 100%;
 }
 
@@ -1375,7 +1375,7 @@ html {
   height: 432px;
   top: 2px;
   border-radius: 10px;
-  background-image: url(/img/db8058f02330ac0a321e2892a93ea405-jpg.png);
+  background-image: url(./img/db8058f02330ac0a321e2892a93ea405-jpg.png);
   background-size: 100% 100%;
 }
 
@@ -1400,7 +1400,7 @@ html {
   height: 297px;
   top: -100px;
   border-radius: 10px;
-  background-image: url(/img/416d4e5cc8cb225cfb1db764579dd288-jpg.png);
+  background-image: url(./img/416d4e5cc8cb225cfb1db764579dd288-jpg.png);
   background-size: 100% 100%;
 }
 
@@ -1457,7 +1457,7 @@ html {
   height: 283px;
   top: -61px;
   border-radius: 10px;
-  background-image: url(/img/90706f29ce8f5736e6c1a0cd4e878b66-jpg.png);
+  background-image: url(./img/90706f29ce8f5736e6c1a0cd4e878b66-jpg.png);
   background-size: 100% 100%;
 }
 
