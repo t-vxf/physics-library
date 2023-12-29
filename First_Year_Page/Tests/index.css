@@ -4,19 +4,26 @@
 body {
   font-size: 14px;
 }
+
 .v139_338 {
-  width: 100%;
-  height: 3251px;
-  background: url("bg.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
+    width:200%;
+    height: 200%;
+    background: url("bg.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow-x: auto;
+    justify-content: center;
+
+    scroll-behavior: smooth;
+
+    margin: 0; /* Remove any unwanted margins */
+    padding: 0; /* Remove any unwanted padding */
+  }
 .v139_339 {
   width: 584px;
   color: rgba(17,22,37,1);
